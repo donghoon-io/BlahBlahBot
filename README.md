@@ -2,7 +2,7 @@
 
 [![DOI:10.1145/3411763.3451771](https://zenodo.org/badge/DOI/10.1145/3411763.3451771.svg)](https://doi.org/10.1145/3411763.3451771)
 
-BlahBlahBot is an iOS-based chatbot that crawls users' social media posts (Instagram), find mutual interests, and mediates conversation of strangers. BlahBlahBot is published as [CHI'21 poster](https://doi.org/10.1145/3411763.3451771).
+BlahBlahBot is an iOS-based chatbot that crawls users' social media posts (Instagram), finds mutual interests, and mediates conversation of strangers. BlahBlahBot is published as [CHI'21 poster](https://doi.org/10.1145/3411763.3451771).
 
 ### Installation
 
